@@ -1,0 +1,14 @@
+name: Hello Workflows
+
+on: push
+
+jobs:
+  hello-workflows:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Echo Hello Workflows
+        run: echo "Hello Workflows"
+    steps:
+      - name: Echo Hello Workflows
+        run: echo "Hello Workflows"
