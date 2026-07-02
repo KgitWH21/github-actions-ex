@@ -9,6 +9,3 @@ jobs:
     steps:
       - name: Echo Hello Workflows
         run: echo "Hello Workflows"
-    steps:
-      - name: Echo Hello Workflows
-        run: echo "Hello Workflows"
